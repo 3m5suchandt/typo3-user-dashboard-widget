@@ -4,8 +4,12 @@ TYPO3 Extension user generated dashboard widget
 ## Idea
 
 * Add a possibility to manage announcement widget to all dashboards of editors
-* Announcements can be planned and queued
+* Announcements are custom entities, like sys_notes: https://github.com/TYPO3-CMS/sys_note
 * Announcements contains title, RTE descriptions
+* Announcements are seperate tables
+  * QUESTION: What relation?
+* QUESTION: Add new group?
+* QUESTION: Dashboard preset needed?
 * COULD: Announcments can be categorized (sys_categories)
 * COULD: Announcments can be provided to specific user groups
 
